@@ -9,6 +9,11 @@ this top hat fits into the existing 2020 aluminum extrusion slots on top of your
 reproduces 2020 extrusion slots (in plastic) on its own top, so you can re-affix the see-through
 plastic sheet.
 
+![Top hat Voron 2 4 350mm](https://github.com/kaiaai/voron2_top_hat/assets/33589365/3004e809-f377-4d45-ac5f-bf9cd43cd981)
+
+![PXL_20230825_075201542](https://github.com/kaiaai/voron2_top_hat/assets/33589365/5595a44c-cfe3-4874-a491-0a297c360bcf)
+
+
 The top hat's exhaust opening has the same size and position as the one on the "standard" Voron 2.
 You can try mounting a Voron 2 exhaust filter proper or affix one of the many available exhaust
 cover plates.
@@ -39,3 +44,11 @@ with a BTT filament sensor attached to it
 - I recommend the `Exhaust cover BTT-PTFE-CAN-bus` plate in this repo. This plate has a BTT
 filament sensor mount as well as an elongated knob that prevents your PTFE tube from sagging.
 The PTFE tube slides through the knob. You can also secure your CAN bus cable to the knob.
+
+![Exhaust cover BTT CAN bus](https://github.com/kaiaai/voron2_top_hat/assets/33589365/3a2cb880-4afc-4c4f-a00a-815d5e52c19a)
+
+## Top hat photos
+![PXL_20230825_075209553](https://github.com/kaiaai/voron2_top_hat/assets/33589365/f3dc9e91-d105-40a6-a2f1-a8022f34e780)
+![PXL_20230825_075243794](https://github.com/kaiaai/voron2_top_hat/assets/33589365/76d7025a-7e54-46d3-bcb3-f987aa8c6014)
+![PXL_20230825_075301291](https://github.com/kaiaai/voron2_top_hat/assets/33589365/b1360762-47f1-4494-904e-cb7248e99781)
+![PXL_20230825_075344700](https://github.com/kaiaai/voron2_top_hat/assets/33589365/f6a61eac-44f7-4860-8aae-d065a2fa31fe)
