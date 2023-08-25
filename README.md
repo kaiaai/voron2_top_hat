@@ -1,6 +1,6 @@
 # Top hat mod for Voron 2 350mm
 
-Voron 2 350mm's print volume height comes up short of the advertsed 350mm, quite a bit.
+Voron 2 350mm's print volume height comes up short of the advertised 350mm, quite a bit.
 Here is a "top hat" volume height extension that you can 3D-print and mount on top of
 your Voron 2.
 
