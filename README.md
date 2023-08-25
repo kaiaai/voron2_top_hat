@@ -18,6 +18,7 @@ You can try mounting a Voron 2 exhaust filter proper or affix one of the many av
 cover plates.
 
 ## Installation instructions
+- in the slicer software, place each half-panel vertically on the print bed. The half-panel's slot should be facing up.
 - 3D-print the half-panels. I recommend using PETG.
 - assemble 8 half-panels into 4 panels - one front, one rear and two side panels.
 Take two mating sub-panels (e.g. one `front left` and `front right`) and slide the
