@@ -9,9 +9,9 @@ this top hat fits into the existing 2020 aluminum extrusion slots on top of your
 reproduces 2020 extrusion slots (in plastic) on its own top, so you can re-affix the see-through
 plastic sheet.
 
-![Top hat Voron 2 4 350mm](https://github.com/kaiaai/voron2_top_hat/assets/33589365/3004e809-f377-4d45-ac5f-bf9cd43cd981)
-
 ![PXL_20230825_075201542](https://github.com/kaiaai/voron2_top_hat/assets/33589365/5595a44c-cfe3-4874-a491-0a297c360bcf)
+
+![Top hat Voron 2 4 350mm](https://github.com/kaiaai/voron2_top_hat/assets/33589365/3004e809-f377-4d45-ac5f-bf9cd43cd981)
 
 The top hat's exhaust opening has the same size and position as the one on the "standard" Voron 2.
 You can try mounting a Voron 2 exhaust filter proper or affix one of the many available exhaust
