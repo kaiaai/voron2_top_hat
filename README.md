@@ -51,6 +51,5 @@ The PTFE tube slides through the knob. You can also secure your CAN bus cable to
 ![PXL_20230825_075209553](https://github.com/kaiaai/voron2_top_hat/assets/33589365/f3dc9e91-d105-40a6-a2f1-a8022f34e780)
 ![PXL_20230825_075243794](https://github.com/kaiaai/voron2_top_hat/assets/33589365/76d7025a-7e54-46d3-bcb3-f987aa8c6014)
 ![PXL_20230825_075301291](https://github.com/kaiaai/voron2_top_hat/assets/33589365/b1360762-47f1-4494-904e-cb7248e99781)
-![PXL_20230825_075344700](https://github.com/kaiaai/voron2_top_hat/assets/33589365/f6a61eac-44f7-4860-8aae-d065a2fa31fe)
 
 Happy 3D printing!
