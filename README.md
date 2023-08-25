@@ -22,7 +22,7 @@ cover plates.
 - 3D-print the half-panels. I recommend using PETG.
 - assemble 8 half-panels into 4 panels - one front, one rear and two side panels.
 Take two mating sub-panels (e.g. one `front left` and `front right`) and slide the
-slotted end of one of the half-panels into the mating slotted end of the other half-panel.
+slotted end of one of the half-panels into the mating slotted end of the other half-panel. It's ok to gently pound the half-panels to make them fit together. If the fit is too tight, try sanding the slot a little with a piece of sandpaper.
 - take the top see-through plastic sheet off your Voron 2 extrusion frame
 - place the four just-assembled on top of your Voron 2 frame. The top hat should sit nicely
 in the grooves of your 2020 extrusions.
