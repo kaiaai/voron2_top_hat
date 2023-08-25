@@ -23,7 +23,7 @@ cover plates.
 - assemble 8 half-panels into 4 panels - one front, one rear and two side panels.
 Take two mating sub-panels (e.g. one `front left` and `front right`) and sliding the
 slotted end of one of the half-panels into the mating slotted end of the other half-panel.
-- take the top transparent sheet off your Voron 2 extrusion frame
+- take the top see-through plastic sheet off your Voron 2 extrusion frame
 - place the four just-assembled on top of your Voron 2 frame. The top hat should sit nicely
 in the grooves of your 2020 extrusions.
 - use 8 M4x30 screws - 4 in the front and 4 in the back - to bolt the four panels together.
@@ -32,7 +32,8 @@ Don't overtigten when driving the screws into the plastic.
 - mount your cover plate in the back of the top hat
 - run your filamet and/of PTFE tube and/or CAN bus wiring (if you have one) - whatever
 you are using for your setup. I do recommend using PTFE and CAN bus.
-- re-affix the
+- re-affix the see-through sheet top the top hat's 2020 "extrusions". Be careful not to
+damage the "extrusions" plastic.
 
 ## Choice of exhaust covers or filter
 These are just suggestions.
