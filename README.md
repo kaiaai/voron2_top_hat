@@ -42,6 +42,7 @@ Don't overtighten when driving the screws into the plastic.
 you are using for your setup. I do recommend using PTFE and CAN bus.
 - re-affix the see-through sheet top the top hat's 2020 "extrusions". Be careful not to
 damage the "extrusions" plastic.
+- edit your `printer.cfg` to update the max Z position
 
 ## Choice of exhaust covers or filter
 These are just suggestions.
