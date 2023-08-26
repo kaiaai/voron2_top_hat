@@ -1,8 +1,11 @@
-# Top hat mod for Voron 2 350mm
+# Top hat mod for Voron 2.4
 
-Voron 2 350mm's print volume height comes up short of the advertised 350mm, quite a bit.
+The most up-to-date instructions are [here](https://remake.ai/2023/08/25/voron-2-top-hat-mod/).
+
+Voron 2.4 print volume height comes up short of the advertised 350mm (or 300mm, 250mm) - quite a bit -
+especially when using the StealthBurner extruder and/or PTFE filament tubing.
 Here is a "top hat" volume height extension that you can 3D-print and mount on top of
-your Voron 2.
+your Voron 2.4 (or Voron 2.4r2).
 
 This mod sits between your Voron 2 frame and its top see-through plastic sheet. Specifically,
 this top hat fits into the existing 2020 aluminum extrusion slots on top of your Voron2 - and
@@ -22,15 +25,16 @@ cover plates.
 - 3D-print the half-panels. I recommend using PETG.
 - assemble 8 half-panels into 4 panels - one front, one rear and two side panels.
 Take two mating sub-panels (e.g. one `front left` and `front right`) and slide the
-slotted end of one of the half-panels into the mating slotted end of the other half-panel. It's ok to gently pound the half-panels to make them fit together. If the fit is too tight, try sanding the slot a little with a piece of sandpaper.
+slotted end of one of the half-panels into the mating slotted end of the other half-panel. It's ok to gently pound the
+half-panels to make them fit together. If the fit is too tight, try sanding the slot a little with a piece of sandpaper.
 - take the top see-through plastic sheet off your Voron 2 extrusion frame
 - place the four just-assembled on top of your Voron 2 frame. The top hat should sit nicely
 in the grooves of your 2020 extrusions.
 - use 8 M4x30 screws - 4 in the front and 4 in the back - to bolt the four panels together.
-Don't overtigten when driving the screws into the plastic.
+Don't overtighten when driving the screws into the plastic.
 - choose a cover plate - see below - and 3D-print it
 - mount your cover plate in the back of the top hat
-- run your filamet and/of PTFE tube and/or CAN bus wiring (if you have one) - whatever
+- run your filament and/of PTFE tube and/or CAN bus wiring (if you have one) - whatever
 you are using for your setup. I do recommend using PTFE and CAN bus.
 - re-affix the see-through sheet top the top hat's 2020 "extrusions". Be careful not to
 damage the "extrusions" plastic.
