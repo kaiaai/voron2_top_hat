@@ -5,7 +5,7 @@ The most up-to-date instructions are [here](https://remake.ai/2023/08/25/voron-2
 Voron 2.4 print volume height comes up short of the advertised 350mm (or 300mm, 250mm) - quite a bit -
 especially when using the StealthBurner extruder and/or PTFE filament tubing.
 Here is a "top hat" volume height extension that you can 3D-print and mount on top of
-your Voron 2.4 (or Voron 2.4r2). The max Z in my setup increases from 310mm to 355mm -
+your Voron 2.4 (or Voron 2.4r2). Ny setup's max Z went up from 310mm to 355mm -
 without changing vertical rails!
 
 This mod sits between your Voron 2 frame and its top see-through plastic sheet. Specifically,
