@@ -9,7 +9,7 @@ your Voron 2.4 (or Voron 2.4r2). The max Z in my setup increases from 310mm to 3
 without changing vertical rails!
 
 This mod sits between your Voron 2 frame and its top see-through plastic sheet. Specifically,
-this top hat fits into the existing 2020 aluminum extrusion slots on top of your Voron2 - and
+the top hat fits into the existing 2020 aluminum extrusion slots on top of your Voron2 - and
 reproduces 2020 extrusion slots (in plastic) on its own top, so you can re-affix the see-through
 plastic sheet.
 
