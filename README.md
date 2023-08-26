@@ -5,12 +5,15 @@ The most up-to-date instructions are [here](https://remake.ai/2023/08/25/voron-2
 Voron 2.4 print volume height comes up short of the advertised 350mm (or 300mm, 250mm) - quite a bit -
 especially when using the StealthBurner extruder and/or PTFE filament tubing.
 Here is a "top hat" volume height extension that you can 3D-print and mount on top of
-your Voron 2.4 (or Voron 2.4r2).
+your Voron 2.4 (or Voron 2.4r2). The max Z in my setup increases from 310mm to 355mm.
 
 This mod sits between your Voron 2 frame and its top see-through plastic sheet. Specifically,
 this top hat fits into the existing 2020 aluminum extrusion slots on top of your Voron2 - and
 reproduces 2020 extrusion slots (in plastic) on its own top, so you can re-affix the see-through
 plastic sheet.
+
+Word of caution - when **printing above ~310mm**, your **minimum Y must be at least 20mm** (vs. zero),
+otherwise Stealthburner can collide with the frame.
 
 ![PXL_20230825_075201542](https://github.com/kaiaai/voron2_top_hat/assets/33589365/5595a44c-cfe3-4874-a491-0a297c360bcf)
 
