@@ -1,6 +1,6 @@
 # Top hat mod for Voron 2.4
 
-The most up-to-date instructions are [here](https://remake.ai/2023/08/25/voron-2-top-hat-mod/).
+Please read the most up-to-date instructions here: https://remake.ai/blog/voron-2-top-hat-mod/.
 
 Voron 2.4 print volume height comes up short of the advertised 350mm (or 300mm, 250mm) - quite a bit -
 especially when using the StealthBurner extruder and/or PTFE filament tubing.
